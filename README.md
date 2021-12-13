@@ -19,9 +19,9 @@ The app in itself is a simple movie searching app. Clicking the movie list item 
 
 **Please click the image below to enlarge.**
 
-<img src="https://github.com/jenilbhadja001/movies-dawnn/blob/main/Screenshots/001.png" height="600" width="300" hspace="40"><img src="https://github.com/jenilbhadja001/movies-dawnn/blob/main/Screenshots/002.png" height="600" width="300" hspace="40">
+<img src="https://github.com/jenilbhadja001/movies-dawnn---MAD-PROJECT/blob/main/Screenshots/001.png" height="600" width="300" hspace="40"><img src="https://github.com/jenilbhadja001/movies-dawnn---MAD-PROJECT/blob/main/Screenshots/002.png" height="600" width="300" hspace="40">
 
-<img src="https://github.com/jenilbhadja001/movies-dawnn/blob/main/Screenshots/003.png" height="600" width="300" hspace="40"><img src="https://github.com/jenilbhadja001/movies-dawnn/blob/main/Screenshots/004.png" height="600" width="300" hspace="40">
+<img src="https://github.com/jenilbhadja001/movies-dawnn---MAD-PROJECT/blob/main/Screenshots/003.png" height="600" width="300" hspace="40"><img src="https://github.com/jenilbhadja001/movies-dawnn---MAD-PROJECT/blob/main/Screenshots/004.png" height="600" width="300" hspace="40">
 
 
 - - -
