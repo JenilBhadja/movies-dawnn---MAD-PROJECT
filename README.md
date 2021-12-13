@@ -1,4 +1,4 @@
-# Movie Finder 
+# Movies Dawnn
 
 **Movies Dawnn** is a sample android application 📱to search movies 🍿using OMDb API which is built to demonstrate use of *Modern Android development* tools. It has been built using kotlin with clean architecture principles and MVVM pattern as well as Architecture Components. Dedicated to all Android Developers with ❤️. 
 
